@@ -37,7 +37,7 @@ void dfs(int nn,int pp,int dd){
     }
     //Add
 }    
-//This function saves the shortest path from node nn to all other nodes in a tree in dis array
+//This function saves the shortest path from node nn to all other nodes in a tree in dis[] array
 
 void solve(){
 cin>>n;
